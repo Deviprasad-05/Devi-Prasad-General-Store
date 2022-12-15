@@ -7,7 +7,7 @@ This is a web based application developed for **evi-Prasad-General-Store** in in
 This web based General online Store application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link :**
+**Project Link :** https://black-meadow-02d1dd210.2.azurestaticapps.net
 
 **project demo video link :** 
 
@@ -25,9 +25,9 @@ This web based General online Store application has been developed for the accom
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-**Screenshots :**
+**Screenshots of my Project ( Deployed in MicorSoft Azure ):**
 
-**1.My Website HomePage**
+**1.My Website HomePage** 
 
 ![Home](https://user-images.githubusercontent.com/110979904/207678445-ae791d7c-9caa-42c8-8891-840c174b4c26.PNG)
 
