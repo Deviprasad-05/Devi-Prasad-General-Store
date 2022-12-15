@@ -14,7 +14,7 @@ This web based General online Store application has been developed for the accom
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
+- Azure Bot Service
 
 ## Features and Functionalities 😃
 
