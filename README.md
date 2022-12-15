@@ -1,6 +1,6 @@
 
 
-**Project name  : evi-Prasad-General-Store**
+**Project name  : Devi-Prasad-General-Store**
 
 This is a web based application developed for **evi-Prasad-General-Store** in india
 
@@ -9,7 +9,7 @@ This web based General online Store application has been developed for the accom
 
 **Project Link :** https://black-meadow-02d1dd210.2.azurestaticapps.net
 
-**project demo video link :** 
+**project demo video link :** https://youtu.be/Ad4cxrUmsvs
 
 ## Azure technologies used for Project
 
