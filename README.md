@@ -57,7 +57,7 @@ This web based General online Store application has been developed for the accom
 ![Login Page](https://user-images.githubusercontent.com/110979904/207679253-26f9da84-3ed1-4e96-b875-05af385591e6.PNG)
 
 ----------------------------------------------------------------------------------------------------------------------------
-**7.My Website Chat Bot**
+**7.My Website Chat Bot ( Developed by Azure Bot Service )** 
 
 ![Chat Bot](https://user-images.githubusercontent.com/110979904/207678711-c47597a6-3216-4034-b1ec-ecb04ba65a5f.PNG)
 
